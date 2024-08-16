@@ -1,7 +1,7 @@
 
-Claro! Aqui está uma versão revisada do README, enfatizando o uso de HTML, CSS e JavaScript:
 
-Site de Vendas de Carros de Luxo
+*Site de Vendas de Carros de Luxo*
+
 Descrição
 O Site de Vendas de Carros de Luxo é uma plataforma desenvolvida pela turma de Análise e Desenvolvimento de Sistemas do curso técnico. O site tem como objetivo oferecer uma experiência sofisticada para a compra e venda de carros de luxo, destacando-se pela sua interface intuitiva e design elegante.
 
